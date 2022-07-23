@@ -16,3 +16,5 @@
 Цей квіз мені порадив пройти хлопець з чату, тому я його і пройшов :>
 
 ## <a href="https://learngitbranching.js.org/">GitBranching</a>
+<img src="0/lb1.png">
+<img src="0/lb2.png">
