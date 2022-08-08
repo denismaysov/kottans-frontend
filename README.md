@@ -1,4 +1,9 @@
-## ___Hi i'm Denis___
+
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Denis</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student from Ukraine </h3>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <strong>Я вже почав всмоктувати нову інформацію наче Спанч Боб</strong>. Мій курс почався с того, що мій знайомий який був моїм безкоштовним ментором, сказав що якщо я пройду цей ваш курс, то зможу потім одразу кидати заяви на співбесіди в компанії. Ось я й почав, бо мені стало цікаво програмування, а <strong>через те що я в минулому веб дизайнер, я обрав саме Frontend</strong>. Вивчав до цього [html], [css], [scss], [js], [c++]. З VCS сервісом я стикаюсь вперше, тому для мене це щось нове та як я зрозумів, дуже корисне. Через те що я зтикаюсь з ним вперше, він мені був зовсім незрозумілим, якщо честно. Тому я просив мого друга та людей з чату мені допомогти розібратися. Взагалом я розібрався)
 <img src="img/cat.jpg">
