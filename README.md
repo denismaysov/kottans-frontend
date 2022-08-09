@@ -78,7 +78,7 @@ The articles I read about the http and https encryption protocol gave me a lot t
 I took the Basic Knowledge Course in HTML and CSS. Honestly, I did not learn anything new, due to the fact that I had previously taken courses on YouTube. It was useful to repeat, not in vain they say repetition is the mother of learning.
 
 Check it out by clicking on the link below and check it out for yourself.<br>
-<a href="https://github.com/denismaysov/kottans-frontend/tree/master/task_html_css_intro">[Тека з скрінами]</a>
+<a href="https://github.com/denismaysov/kottans-frontend/tree/master/task_html_css_intro"> :file_folder: [Тека зі скрінами]</a>
 
 ## Responsive Web Design
 :white_check_mark: Done
@@ -96,3 +96,6 @@ Check it out by clicking on the link below and check it out for yourself.<br>
 <hr>
 <img src="task_responsive_web_design/chrome_eYdsWAoChB.png">
 </details>
+
+## Hooli-style Popup
+
