@@ -14,7 +14,7 @@
   - [ ] **Front-End Basics** 
     - [x] Intro to HTML & CSS
     - [x] Responsive Web Design
-    - [ ] HTML & CSS Practice
+    - [x] HTML & CSS Practice
     - [ ] JavaScript Basics
     - [ ] Document Object Model - practice
   - [ ] **Advanced Topics**
