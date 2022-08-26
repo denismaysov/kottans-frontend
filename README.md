@@ -1,17 +1,17 @@
 
-<h1 align="center">Hi there, I'm Denis</a> 
+<h1 align="center">Hi there, I'm Denis</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Ukraine </h3>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <h1 align="center"> Start of my history </h1>
 
-## *Comments*  
+## *Comments*
   - [X] **General**
     - [X] Git Basic
     - [X] Linux CLI and Networking
     - [X] VCS (hello gitty), GitHub and Collaboration
-  - [ ] **Front-End Basics** 
+  - [ ] **Front-End Basics**
     - [x] Intro to HTML & CSS
     - [x] Responsive Web Design
     - [x] HTML & CSS Practice
@@ -26,7 +26,7 @@
 	 - [ ] Website Performance Optimization - optional
 	 - [ ] Friends App - real project
 
-> Я вже почав всмоктувати нову інформацію наче Спанч Боб. Мій курс почався с того, що мій знайомий який був моїм безкоштовним ментором, сказав що ?якщо я пройду цей ваш курс, то зможу потім одразу кидати заяви на співбесіди в компанії. Ось я й почав, бо мені стало цікаво програмування, а через те що я в минулому веб дизайнер, я обрав саме Frontend. Вивчав до цього [html], [css], [scss], [js], [c++]. З VCS сервісом я стикаюсь вперше, тому для мене це щось нове та як я зрозумів, дуже корисне. Через те що я зтикаюсь з ним вперше, він мені був зовсім незрозумілим, якщо 
+> Я вже почав всмоктувати нову інформацію наче Спанч Боб. Мій курс почався с того, що мій знайомий який був моїм безкоштовним ментором, сказав що ?якщо я пройду цей ваш курс, то зможу потім одразу кидати заяви на співбесіди в компанії. Ось я й почав, бо мені стало цікаво програмування, а через те що я в минулому веб дизайнер, я обрав саме Frontend. Вивчав до цього [html], [css], [scss], [js], [c++]. З VCS сервісом я стикаюсь вперше, тому для мене це щось нове та як я зрозумів, дуже корисне. Через те що я зтикаюсь з ним вперше, він мені був зовсім незрозумілим, якщо
 честно. Тому я просив мого друга та людей з чату мені допомогти розібратися. Взагалом я розібрався).
 
 ![kottan](/img/cat.jpg)
@@ -86,22 +86,34 @@ Check it out by clicking on the link below and check it out for yourself.<br>
  ***I already knew all the information that was in this paragraph, so it was not difficult for me to complete this task.***
 
 <details>
-<summary>Flex Frogs</summary> 
+<summary>Flex Frogs</summary>
 <hr>
 <img src="task_responsive_web_design/chrome_Dc1w2JSE7G.png">
 </details>
 
 <details>
-<summary>Grid Garden</summary> 
+<summary>Grid Garden</summary>
 <hr>
 <img src="task_responsive_web_design/chrome_eYdsWAoChB.png">
 </details>
 
 ## Hooli-style Popup
 
+:white_check_mark: Done
+
 [***Best PopUp Page***](https://denismaysov.github.io/Hooli-PopUp/)
 
 [***Code base***](https://github.com/denismaysov/Hooli-PopUp)
->Такс,тут я трохи поплачусь стосовно цього завдання 
+>Такс,тут я трохи поплачусь стосовно цього завдання
 >>Робив я його дуже довго та муторно, спочатку робив через діви, та щось дуже намудрив та й нічого нормально не працювало. Потім подивився як робили ті хто вже зробив та побачив що робили через списки у nav та і я вирішив так зробити, бо це здавалося мені зрозуміліше та більш меньш просто. З 3-ї спроби я все ж таки зробив цей клятий PopUp та зробив корективи відносно коментарів ревьюверів.
 >>> Взагалом я пишаюся проробленою роботою і гадаю що я отримав незабутній експіріанс!
+
+## MultiPopup
+
+:white_check_mark: Done
+
+[***Best PopUp Page***](https://denismaysov.github.io/MultiPopUp/)
+
+[***Code base***](https://github.com/denismaysov/MultiPopUp)
+
+My penalty task is already running and waiting for mentors to check.
