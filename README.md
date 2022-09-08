@@ -15,6 +15,7 @@
     - [x] Intro to HTML & CSS
     - [x] Responsive Web Design
     - [x] HTML & CSS Practice
+    - [x] MultiPopUp
     - [ ] JavaScript Basics
     - [ ] Document Object Model - practice
   - [ ] **Advanced Topics**
@@ -116,4 +117,4 @@ Check it out by clicking on the link below and check it out for yourself.<br>
 
 [***Code base***](https://github.com/denismaysov/MultiPopUp)
 
-My penalty task is already running and waiting for mentors to check.
+That was scarry and boring, but i done that quiz!
