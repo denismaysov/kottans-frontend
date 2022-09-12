@@ -118,3 +118,13 @@ Check it out by clicking on the link below and check it out for yourself.<br>
 [***Code base***](https://github.com/denismaysov/MultiPopUp)
 
 That was scarry and boring, but i done that quiz!
+
+## JS-Basic
+
+:white_check_mark: Done
+>Soooo... I did this task very long and painfully, because I did not want to look at the clues, but the incomprehensible conditions and requirements forced me to look there.
+>> Each task I wanted to understand in detail, and at first I did, but in the end I realized that for me as a beginner to learn this language from scratch in a week or 2 is simply impossible. I started to do everything in an accelerated mode so that at least have time to do at least some practice before October 1.
+>>>I hope I will have time to do it)
+
+<a href="https://github.com/denismaysov/kottans-frontend/tree/master/JS-basics"> :file_folder: [Тека зі скрінами]</a>
+
